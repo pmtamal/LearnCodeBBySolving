@@ -1,0 +1,15 @@
+e:\Personal\Writing\LearnBySolving\CSharp\bin\Debug\net6.0\CSharp.exe
+e:\Personal\Writing\LearnBySolving\CSharp\bin\Debug\net6.0\CSharp.deps.json
+e:\Personal\Writing\LearnBySolving\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+e:\Personal\Writing\LearnBySolving\CSharp\bin\Debug\net6.0\CSharp.dll
+e:\Personal\Writing\LearnBySolving\CSharp\bin\Debug\net6.0\CSharp.pdb
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\CSharp.dll
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\refint\CSharp.dll
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\CSharp.pdb
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+e:\Personal\Writing\LearnBySolving\CSharp\obj\Debug\net6.0\ref\CSharp.dll
